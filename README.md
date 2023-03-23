@@ -9,3 +9,5 @@
 - 💬 Ask me about  o que quiser
 - 📫 How to reach me: @brunolopesdesouza87
 - ⚡ Fun fact: Gosto de aprender coisas novas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolopesdesouza87)](https://github.com/brunolopesdesouza87/github-readme-stats)
